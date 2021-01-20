@@ -8,7 +8,6 @@ Welcome to my Github!! It is not at all organized: some repos have unsolicieted 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do nerdy stuff!! Aah, I am not fun at all :blush:  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arubhardwaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
