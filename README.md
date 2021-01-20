@@ -8,7 +8,9 @@ Welcome to my Github!! It is not at all organized: some repos have unsolicieted 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do nerdy stuff!! Aah, I am not fun at all :blush:  
 
+[![Aru's github stats](https://github-readme-stats.vercel.app/api?username=arubhardwaj)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **arubhardwaj/arubhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Aru's github stats](https://github-readme-stats.vercel.app/api?username=arubhardwaj)](https://github.com/anuraghazra/github-readme-stats)
