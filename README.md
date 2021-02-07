@@ -4,7 +4,6 @@
 Welcome to my Github!! It is not at all organized: some repos have unsolicited code files which I just wanted to store somewhere (well!!!). 
 
 - 🔭 I’m currently working in Julia and focusing on computational methods used in economics.
-- 💬 Feel free to reach me through email: [arubhardwaj@tuta.io](mailto:arubhardwaj@tuta.io) :octocat: :handshake:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do nerdy stuff!! Aah, I am not fun at all :blush:  
 
