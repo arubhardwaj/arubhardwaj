@@ -6,6 +6,7 @@ Welcome to my Github!! It is not at all organized: some repos have unsolicited c
 - 🔭 Since you are here do visit [Humans of Julia](https://github.com/Humans-of-Julia).
 - 😄 Pronouns: he/him
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=arubhardwaj/arubhardwaj)
 
 
 <!--
