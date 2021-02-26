@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif
 
 Welcome to my Github!! It is not at all organized: some repos have unsolicited code files which I just wanted to store somewhere (well!!!). 
 
