@@ -7,8 +7,6 @@ Welcome to my Github!! It is not at all organized: some repos have unsolicited c
 - 🔭 Since you are here do visit [Humans of Julia](https://github.com/Humans-of-Julia).
 - 😄 Pronouns: he/him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arubhardwaj)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arubhardwaj/arubhardwaj)
 
