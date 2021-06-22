@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-![Alt Text](https://tenor.com/bghNU.gif)
+<img src="https://tenor.com/bghNU.gif" width="40" height="40" />
 
 
 Welcome to my Github!! It is not at all organized: some repos have unsolicited code files which I just wanted to store somewhere (well!!!). 
