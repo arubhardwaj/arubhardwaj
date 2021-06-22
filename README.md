@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-<img src="https://tenor.com/bghNU.gif" width="400" height="400" />
+<img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="400" height="200" />
 
 
 Welcome to my Github!! It is not at all organized: some repos have unsolicited code files which I just wanted to store somewhere (well!!!). 
