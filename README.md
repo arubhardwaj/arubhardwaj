@@ -34,6 +34,15 @@ Welcome to my Github!! It is not at all organized: some repos have unsolicited c
 
 
 
+
+## Tools & Languages
+<code><img title="Python" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"></code>
+<code><img title="Julia" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/julia.svg"></code>
+<code><img title="R" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg"></code>
+<code><img title="Git and Github" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg"></code>
+<code><img title="Linux" height ="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg"></code>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arubhardwaj/arubhardwaj)
 
 
