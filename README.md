@@ -9,6 +9,21 @@
 <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="400" height="200" />
 
 
+<br>
+
+<a href="https://twitter.com/aruecon">
+  <img align="left" alt="Aru's Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arubhardwaj/">
+  <img align="left" alt="Aru's LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/arubhardwaj">
+  <img align="left" alt="Aru's Telegram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<br>
+<br><br>
+
+
 Welcome to my Github!! It is not at all organized: some repos have unsolicited code files which I just wanted to store somewhere (well!!!). 
 
 - 🔭 Since you are here do visit [Humans of Julia](https://github.com/Humans-of-Julia).
