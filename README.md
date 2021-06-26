@@ -6,9 +6,6 @@
 
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="400" height="200" />
-
-
 <br>
 
 <a href="https://twitter.com/aruecon">
@@ -22,6 +19,8 @@
 </a>
 <br>
 <br><br>
+
+<img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="400" height="200" />
 
 
 Welcome to my Github!! It is not at all organized: some repos have unsolicited code files which I just wanted to store somewhere (well!!!). 
