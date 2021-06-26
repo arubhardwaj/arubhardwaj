@@ -26,7 +26,6 @@ Welcome to my Github!! It is not at all organized: some repos have unsolicited c
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arubhardwaj/arubhardwaj)
 
-### Reach me
 
 <br>
 
