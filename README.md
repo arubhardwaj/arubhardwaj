@@ -1,8 +1,8 @@
-![](https://img.shields.io/badge/OS-Parrot-brightgreen)
+![](https://img.shields.io/badge/OS-Parrot-brightgreen?style=plastic&logo=linux)
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=7c5c87)
-![](https://img.shields.io/badge/Code-R-blue)
-![](https://img.shields.io/badge/Code-Python-yellowgreen)
-![](https://img.shields.io/badge/Editor-VS%20Code-blue)
+![](https://img.shields.io/badge/Code-R-blue?style=plastic&logo=R)
+![](https://img.shields.io/badge/Code-Python-yellowgreen?style=plastic&logo=python)
+![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=plastic&logo=visual-studio)
 
 ### Hi there 👋
 
