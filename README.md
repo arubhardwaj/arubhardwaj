@@ -9,16 +9,16 @@
 <br>
 
 <a href="https://twitter.com/aruecon">
-  <img alt="Twitter" src="https://img.shields.io/badge/-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 <a href="mailto:arubhardwaj@protonmail.ch">
-  <img alt="Protonmail" src="https://img.shields.io/badge/-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img alt="Protonmail" src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/arubhardwaj/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://t.me/arubhardwaj">
-  <img alt="Telegram" src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <br>
 <br><br>
