@@ -3,8 +3,6 @@
 ![](https://img.shields.io/badge/Code-R-blue)
 ![](https://img.shields.io/badge/Code-Python-yellowgreen)
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7c5c87)
-![](https://img.shields.io/badge/Shell-tcsh-informational?style=flat&logo=tcsh&logoColor=white&color=7c5c87)
 
 ### Hi there 👋
 
