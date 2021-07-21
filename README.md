@@ -29,7 +29,7 @@ Welcome to my Github!! It is not at all organized: some repos have unsolicited c
 
 <br>
 
-<a href="https://twitter.com/aruecon">
+<a href="https://twitter.com/arubhardwaj_">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 <a href="mailto:arubhardwaj@protonmail.ch">
