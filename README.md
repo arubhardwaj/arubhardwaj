@@ -35,7 +35,7 @@ Welcome to my Github!! It is not at all organized: some repos have unsolicited c
 <a href="mailto:arubhardwaj@protonmail.ch">
   <img alt="Protonmail" src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/arubhardwaj/">
+<a href="https://www.linkedin.com/in/arub/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://t.me/arubhardwaj">
