@@ -12,7 +12,7 @@
 Welcome to my Github!! It is not at all organized: some repos have unsolicited code files which I just wanted to store somewhere (well!!!). 
 
 - 🔭 Since you are here do visit [Humans of Julia](https://github.com/Humans-of-Julia).
-- :monocle_face: Currently working on [JuliaMaps.jl](https://github.com/arubhardwaj/JuliaMaps.jl) (Unfortunately, I got high starting thi project!!!).
+- :monocle_face: Currently working on [JuliaMaps.jl](https://github.com/arubhardwaj/JuliaMaps.jl) (Unfortunately, I got high after starting this project!!!).
 - 😄 Pronouns: he/him
 
 
