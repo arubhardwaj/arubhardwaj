@@ -32,7 +32,7 @@ Welcome to my Github!! It is not at all organized: some repos have unsolicited c
 <a href="https://twitter.com/arubhardwaj_">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-<a href="mailto:arubhardwaj@protonmail.ch">
+<a href="mailto:ab0106@proton.me">
   <img alt="Protonmail" src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/arub/">
