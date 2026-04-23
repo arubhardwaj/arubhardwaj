@@ -4,47 +4,81 @@
 ![](https://img.shields.io/badge/Code-Python-yellowgreen?style=plastic&logo=python)
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=plastic&logo=visual-studio)
 
-### Hi there 👋
+
+
+# Hi, I'm Aru
 
 <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="400" height="200" />
 
+I build AI products that have to work in the real world.
 
-Welcome to my Github!! It is not at all organized: some repos have unsolicited code files which I just wanted to store somewhere (well!!!). 
+Right now I'm focused on a mix of applied AI, product architecture, and technical leadership across privacy-sensitive, regulated, and high-stakes environments. Most of the work I care about sits at the intersection of product usefulness, model reliability, and infrastructure decisions that won't become a liability later.
 
-- 🔭 Since you are here do visit [Humans of Julia](https://github.com/Humans-of-Julia).
-- :monocle_face: Currently working on [JuliaMaps.jl](https://github.com/arubhardwaj/JuliaMaps.jl) (Unfortunately, I got high after starting this project!!!).
-- 😄 Pronouns: he/him
+## What I'm working on
 
+- Building privacy-first AI products with a strong bias toward practical use, clean UX, and sustainable architecture
+- Designing retrieval systems that are more deterministic, better scoped, and less prone to hallucination
+- Shipping multimodal workflows that combine text, documents, visuals, and structured data
+- Exploring sovereign and EU-hosted AI stacks for teams that care about compliance, residency, and vendor risk
+- Turning messy operational problems into decision systems, simulations, and tools people can actually use day to day
+- Growing small software products from idea to usable product without overengineering the first version
 
+## Current project themes
 
-<code><img title="Julia" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/julia.svg"></code>
-<code><img title="R" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg"></code>
-<code><img title="Python" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"></code>
-<code><img title="Git and Github" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg"></code>
-<code><img title="Linux" height ="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg"></code>
+These are the kinds of problems I'm deep in at the moment:
 
+- Knowledge retrieval tools with hard guardrails, filtered context, and evaluation loops
+- AI-assisted systems for document-heavy and research-heavy workflows
+- Computer vision workflows for messy real-world environments
+- Decision-support systems that use causal thinking instead of just prediction
+- Lightweight SaaS products with strong product sense and careful cost control
+- Architecture reviews for early-stage products figuring out what to build in-house vs what to outsource to vendors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=arubhardwaj/arubhardwaj)
+## Things I enjoy building
 
+- RAG systems
+- multimodal AI applications
+- privacy-aware AI workflows
+- internal tools that save teams real time
+- MVPs that can grow into actual products
+- evaluation layers for LLM-based systems
+- infrastructure setups that stay understandable six months later
 
-<br>
+## Tech I reach for
 
-<a href="https://twitter.com/arubhardwaj_">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-<a href="mailto:ab0106@proton.me">
-  <img alt="Protonmail" src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/arub/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://t.me/arubhardwaj">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<br>
-<br><br>
+`Python` `TypeScript` `SQL` `PostgreSQL` `Docker` `PyTorch` `scikit-learn` `BigQuery` `Airflow`
 
+Also spending a lot of time around:
 
-<!--
-**arubhardwaj/arubhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`RAG` `multimodal systems` `causal inference` `computer vision` `Mistral` `Gemini` `AWS` `GCP` `OVHcloud` `Scaleway`
+
+## How I like to work
+
+- start from the actual business bottleneck
+- reduce ambiguity early
+- build small, verify fast
+- keep AI systems observable
+- avoid magic where reliability matters
+- write things down so future decisions are easier
+
+## Outside of code
+
+I’m especially interested in:
+- AI products with real operational value
+- European AI infrastructure and sovereignty
+- product strategy for small technical teams
+- the gap between demo AI and deployable AI
+
+## Find me
+
+- Website: [arubhardwaj.eu](https://arubhardwaj.eu)
+- LinkedIn: [linkedin.com/in/arub](https://linkedin.com/in/arub)
+- GitHub: [github.com/arubhardwaj](https://github.com/arubhardwaj)
+
+## CV
+
+You can add your CV to this profile repo and link it like this:
+
+[CV](./Aru_Bhardwaj_fcto.pdf)
+
 
