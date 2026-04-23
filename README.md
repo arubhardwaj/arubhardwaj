@@ -75,10 +75,5 @@ I’m especially interested in:
 - LinkedIn: [linkedin.com/in/arub](https://linkedin.com/in/arub)
 - GitHub: [github.com/arubhardwaj](https://github.com/arubhardwaj)
 
-## CV
-
-You can add your CV to this profile repo and link it like this:
-
-[CV](./Aru_Bhardwaj_fcto.pdf)
 
 
